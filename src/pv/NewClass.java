@@ -9,5 +9,5 @@ package pv;
  * @author Usuario
  */
 public class NewClass {
-    
+    int x;
 }
